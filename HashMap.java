@@ -1,8 +1,10 @@
-class HashMap<T>{
+import .DataReader;
 
-	T 
+public class HashMap<T>{
 
-	public HashMap<T>()
+
+	
+
 	
 
 
