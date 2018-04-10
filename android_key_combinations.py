@@ -1,6 +1,8 @@
-#Find number of combinations on android phone
+"""
+    The task is to find the number of combinations on the android lockscreen.
+"""
 
-#Define adjacency list for the lock screen
+# Define adjacency list graph representation for the lock screen
 
 
 
